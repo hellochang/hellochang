@@ -6,5 +6,6 @@ Checkout my newest [app](https://deepnash.streamlit.app/)!
 
 
 ### Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hellochang&show_icons=true)](https://github.com/hellochang)
-[![Chang Liu's GitHub Language Usage Statistics](https://github-readme-stats.vercel.app/api/top-langs?username=hellochang&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&show_icons=true)](https://github.com/hellochang)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=hellochang&theme=rose_pine&show_icons=true)](https://github.com/hellochang)
+
+[![Chang Liu's GitHub Language Usage Statistics](https://github-readme-stats.vercel.app/api/top-langs?username=hellochang&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=rose_pine&show_icons=true)](https://github.com/hellochang)
