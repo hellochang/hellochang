@@ -1,6 +1,6 @@
 ### About me
 Hi! This is Chang:laughing:, and welcome to my personal git repo.
-I'm aspiring Software Engineer and Data Scientist.
+Currently, I'm a Computational Math undergrad student at the University of Waterloo in Canada. I'm an aspiring Software Engineer and Data Scientist.
 Checkout my newest [app](https://deepnash.streamlit.app/)!
 
 
