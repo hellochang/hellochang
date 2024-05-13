@@ -1,5 +1,5 @@
 ### About me
-Hi! This is Chang :laughing: . Welcome to my personal git repo. 
+Hi! This is Chang :laughing: . Welcome to my git repo. 
 
 Currently, I'm pursuing research in computer vision and deep learning at the University of Waterloo in Canada.
 
