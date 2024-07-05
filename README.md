@@ -1,7 +1,7 @@
 ### About me
 Hi! This is Chang :laughing:. Welcome to my git repo. 
 
-Currently, I'm pursuing research in computer vision and deep learning at the University of Waterloo in Canada.
+Currently, I'm working on computer vision and deep learning research at the University of Waterloo.
 
 Checkout my newest [app](https://deepnash.streamlit.app/)!
 
