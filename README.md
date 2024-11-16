@@ -3,7 +3,7 @@ Hi! This is Chang :laughing:. Welcome to my git repo.
 
 Currently, I'm working on computer vision and deep learning research at the University of Waterloo.
 
-Checkout my newest [app](https://deepnash.streamlit.app/)!
+Checkout my newest [app](https://deepmash.streamlit.app/)!
 
 ### My Git Statistics
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=hellochang&theme=rose_pine&show_icons=true)](https://github.com/hellochang) -->
